@@ -41,7 +41,7 @@ Built primarily with **HTML, CSS, and JavaScript**, it focuses on **user-friendl
 
 ## 🌐 How to Use
 1. Clone or download the repository.  
-2. Open `index.html` in a browser.  
+2. Open `home.html` in a browser.  
 3. Navigate through the menu to explore **student info, grades, and other features**.  
 4. Interact with the **front-end features** dynamically using forms and buttons.  
 
